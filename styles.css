@@ -1,0 +1,242 @@
+* {
+ 
+  background-color:whitesmoke;
+}
+
+
+.container {
+
+    display:grid;
+    grid-template-columns: 600px auto;
+   
+    grid-template-rows: auto 600px;
+    grid-gap: 5px 5px;
+  
+  
+
+}
+
+.child1 {
+   
+
+  
+  
+   
+    margin:1px;
+    
+}
+
+.child2 {
+
+  
+  
+ 
+    margin:1px;
+}
+
+.child3 {
+   
+
+ 
+   
+   
+    margin:1px;
+}
+.child4 {
+
+
+  
+   
+ 
+    margin:1px;
+}
+h1 {
+   text-align: center;
+}
+
+#heading-part-1{
+    color: blue;
+}
+
+#heading-part2 {
+    color: yellow;
+
+}
+
+#paragraph-1 {
+    text-align: center;
+}
+
+#paragraph-2{
+    text-align: center;
+    padding:3px;
+    border:1px solid black;
+    background-color:darkcyan;
+    width:500px;
+    align-items: center;
+}
+
+
+
+.child #item-2 {
+ display:flex;
+
+}
+
+#paragraph-2 {
+    text-align: center;
+    margin-left: 40px;
+    border-radius: 3px;
+}
+
+#heading-2 {
+  color: darkslategray;
+text-align: left;
+}
+
+.container .child1 #para-3 { 
+    color:red;
+}
+
+#demo1-para {
+    color:aqua;
+}
+
+.item-3{
+    display:flex;
+}
+
+#coconut-image {
+    padding-left:20px;
+    padding-bottom: 10px;
+    height: 80px;
+}
+
+.item-4 {
+    margin:0;
+}
+
+#footer-image {
+
+    width:589px;
+    height:150px;
+    padding-bottom: 10px;
+
+}
+
+#demo2-para {
+  
+    text-align: center;
+    background-color:darkcyan;
+    padding:5px;
+    width:500px;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+
+#container-2-heading-1{
+    color:darkslategrey;
+    text-align: left;
+    margin:1px;
+
+}
+
+#img-1, #img-2, #img-3, #img-4 {
+    width:150px;
+    height:100px
+} 
+
+#first-1, #first-2, #first-3, #first-4 {
+  color:aqua;
+  font-weight: 200;
+}
+
+#percentage-1, #percentage-2, #percentage-3, #percentage-4 {
+    color:yellow;
+}
+
+#small-item-1, #small-item-2, #small-item-3, #small-item-4 {
+    display: flex;
+}
+
+#percentage-1, #percentage-2, #percentage-3, #percentage-4{
+    margin:10px;
+    font-size: 40px;
+}
+#child-3-heading {
+  color:darkslategray;
+  line-height: normal;
+  font-size: 30px;
+  padding-left: 10px;
+
+}
+#child-3-heading-part2 {
+    color:yellow;
+    line-height: normal;
+    font-size: 50px;
+}
+
+ #third-para-item-3{
+    font-size:20px;
+    line-height: normal;
+    text-align: right;
+  
+   color:aqua;
+
+    
+}
+#container3-child3-1 {
+    display:flex;
+}
+
+#child-3-first-image {
+    width:330px;
+    height:100px;
+    padding-left: 50px;
+}
+
+#adult65, #young34 , #children10{
+    color:yellow;
+   
+}
+#adult65-1, #yound34-1, #children-10 {
+    color:darkslategrey;
+}
+
+#human-chain1, #human-chain2 , #human-chain3 {
+    display:flex;
+    padding-left: 100px;
+} 
+
+#first-human-chain, #second-human-chain, #third-human-chain{
+    padding-left: 10px;
+
+
+  
+
+}
+
+#item-1-child4, #item-2-child4, #item-3-child4 {
+    display:flex;
+   padding-left:20px;
+}
+
+#injection, #heart-emoji, #cancer-emoji {
+    padding-right: 5px;
+}
+
+#diabetes-icon , #stroke-icon, #cancer-icon {
+    color:darkslategrey;
+    font-size: 30px;
+    font-weight: bold;
+}
+#mass-population {
+    color:yellow;
+}
+#advert-1 {
+    font-size: small;
+    line-height: normal;
+}
+
+
+
